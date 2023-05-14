@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @narayanan08
-- 👀 I’m interested in finding logic in doing things and doing them.
-- 🌱 I’m currently learning Data Structures and Algorithms using Python
+- 👋 Hi, I’m @narayanan08, a 2nd year undergrad pursuing Information Technology at SSN college of Engineering, Kalavakkam, India.
+- 🌱 I am currently learning Design and Analysis of Algorithms
 
 
 <!---
