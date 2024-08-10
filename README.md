@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @narayanan08, a 2nd year undergrad pursuing Information Technology at SSN college of Engineering, Kalavakkam, India.
-- 🌱 I am currently learning Design and Analysis of Algorithms
+- 👋 Hi, I’m @narayanan08, a 4th year undergrad pursuing Information Technology at SSN college of Engineering, Kalavakkam, India.
+- 🌱 I am interested in developing solutions for problems I personally faced in my prgramming journey.
+- With my programming knowledge I am very eager to contribute as much as possible for the benefit of the world.
 
 
 <!---
