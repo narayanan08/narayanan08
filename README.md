@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Badri Narayanan, a 4th year undergrad pursuing Information Technology at SSN college of Engineering, Kalavakkam, India.
+- 👋 Hi, I’m Badri Narayanan, a freelancer who worked at a M2P Fintech for more than a year as a full stack developer.
 - 🌱 I am interested in developing solutions for problems I personally faced in my programming journey.
 - With my programming knowledge I am very eager to contribute as much as possible for the benefit of the world.
 
